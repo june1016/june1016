@@ -65,12 +65,10 @@
   <a href="mailto:june16.dev@outlook.com">
     <img src="https://img.shields.io/badge/Correo-1A73E8?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo" />
   </a>
-  <a href="[https:/[Uploading Curriculum Vitae Modelo Harvard Formal Minimalista.pdf…]()
-/linkedin.com/in/tu-perfil](https://www.linkedin.com/in/juan-esteban-paja-montoya-596373232)">
+  <a href="https://linkedin.com/in/juan-esteban-paja-montoya-596373232" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="[Juan_Montoya_CV_Fullstack.pdf.pdf](https://github.com/user-attachments/files/21734413/Juan_Montoya_CV_Fullstack.pdf.pdf)
-m">
+  <a href="https://github.com/juanestebanmontoya/juanestebanmontoya/raw/main/Juan_Montoya_CV_Fullstack.pdf" target="_blank">
     <img src="https://img.shields.io/badge/CV-000000?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Descargar CV" />
   </a>
 </p>
