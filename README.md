@@ -1,7 +1,8 @@
 <!-- 
   GitHub Profile README
-  Basado en CV optimizado para mercado colombiano
-  Enfoque: Fullstack + Automatización + IA
+  Juan Esteban Paja Montoya
+  Desarrollador Fullstack | Automatización e IA
+  Ingeniería de Software – Último Semestre | Medellín, Colombia
 -->
 
 <div align="center">
@@ -18,21 +19,36 @@
 
 ### 🛠️ Tecnologías y Herramientas
 
-<p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Pinecone-FFD700?style=for-the-badge&logo=pinecone&logoColor=black" alt="Pinecone" />
-  <img src="https://img.shields.io/badge/LangChain-10A37F?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
-  <img src="https://img.shields.io/badge/Hugging_Face-FFD34E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
-</p>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="Next.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="PostgreSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="GitHub" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="30" alt="Selenium" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="30" alt="Notion" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="30" alt="Tailwind CSS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="30" alt="Postman" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="Express" />
+</div>
+
+<br>
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="Figma" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="30" alt="Flask" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="30" alt="FastAPI" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3" />
+</div>
+
+  
+
+</div>
 
 ---
 
@@ -41,15 +57,20 @@
 #### 💬 Chatbot Inteligente con RAG
 > Sistema basado en **Retrieval-Augmented Generation** con Pinecone, LangChain y Hugging Face para recuperación contextual de metodologías ágiles.
 - 🔧 Tecnologías: Python, Flask, Next.js, Pinecone, LangChain, Hugging Face
-- 🌐 [Ver proyecto]([https://github/chatbot-rag](https://github.com/june1016/ChaBotAgile)) <!-- Cambia por tu enlace real -->
+- 🌐 [Ver proyecto](https://github.com/tu-usuario/chatbot-rag)
 
 #### 📊 Sistema de Web Scraping para Comparación de Celulares
 > Herramienta automatizada con Selenium y Python para extracción, análisis y visualización de datos técnicos de dispositivos móviles.
 - 🔧 Tecnologías: Python, Selenium, PostgreSQL, React
-- 🌐 [Ver proyecto]([https://github/web-scraping-celulares](https://github.com/june1016/scrapingCelulares)) <!-- Cambia por tu enlace real -->
-
+- 🌐 [Ver proyecto](https://github.com/tu-usuario/web-scraping-celulares)
 
 ---
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/june1016/june1016/output/snake.svg" alt="Snake animation" />
 
 ### 📫 Cómo Contactarme
 
@@ -68,7 +89,7 @@
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=june1016&label=Perfil%20visto&color=blue&style=flat" alt="contador de visitas" />
+  <img src="https://komarev.com/ghpvc/?username=juanestebanmontoya&label=Perfil%20visto&color=blue&style=flat" alt="contador de visitas" />
   <br/>
   <i>“Construyo soluciones tecnológicas completas, desde la idea hasta la ejecución.”</i>
 </div>
