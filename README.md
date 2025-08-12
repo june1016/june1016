@@ -70,7 +70,8 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/june1016/june1016/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/june1016/june1016/output/snake.svg?palette=github-dark" alt="Snake animation" />
+
 
 
 ### 📫 Cómo Contactarme
