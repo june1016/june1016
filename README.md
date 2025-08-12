@@ -41,20 +41,20 @@
 #### 💬 Chatbot Inteligente con RAG
 > Sistema basado en **Retrieval-Augmented Generation** con Pinecone, LangChain y Hugging Face para recuperación contextual de metodologías ágiles.
 - 🔧 Tecnologías: Python, Flask, Next.js, Pinecone, LangChain, Hugging Face
-- 🌐 [Ver proyecto](https://github/chatbot-rag) <!-- Cambia por tu enlace real -->
+- 🌐 [Ver proyecto]([https://github/chatbot-rag](https://github.com/june1016/ChaBotAgile)) <!-- Cambia por tu enlace real -->
 
 #### 📊 Sistema de Web Scraping para Comparación de Celulares
 > Herramienta automatizada con Selenium y Python para extracción, análisis y visualización de datos técnicos de dispositivos móviles.
 - 🔧 Tecnologías: Python, Selenium, PostgreSQL, React
-- 🌐 [Ver proyecto](https://github/web-scraping-celulares) <!-- Cambia por tu enlace real -->
+- 🌐 [Ver proyecto]([https://github/web-scraping-celulares](https://github.com/june1016/scrapingCelulares)) <!-- Cambia por tu enlace real -->
 
 ---
 
 ### 📊 Estadísticas de Código
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=juanestebanmontoya&show_icons=true&theme=radical" alt="Estadísticas de GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanestebanmontoya&layout=compact&theme=radical" alt="Lenguajes más usados" />
+  <img src="https://github-readme-stats.vercel.app/api?username=june1016&show_icons=true&theme=radical" alt="Estadísticas de GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=june1016&layout=compact&theme=radical" alt="Lenguajes más usados" />
 </div>
 
 ---
@@ -65,10 +65,12 @@
   <a href="mailto:june16.dev@outlook.com">
     <img src="https://img.shields.io/badge/Correo-1A73E8?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo" />
   </a>
-  <a href="https://linkedin.com/in/tu-perfil">
+  <a href="[https:/[Uploading Curriculum Vitae Modelo Harvard Formal Minimalista.pdf…]()
+/linkedin.com/in/tu-perfil](https://www.linkedin.com/in/juan-esteban-paja-montoya-596373232)">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://tu-cv-hosteado.com">
+  <a href="[Juan_Montoya_CV_Fullstack.pdf.pdf](https://github.com/user-attachments/files/21734413/Juan_Montoya_CV_Fullstack.pdf.pdf)
+m">
     <img src="https://img.shields.io/badge/CV-000000?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Descargar CV" />
   </a>
 </p>
@@ -76,7 +78,7 @@
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=juanestebanmontoya&label=Perfil%20visto&color=blue&style=flat" alt="contador de visitas" />
+  <img src="https://komarev.com/ghpvc/?username=june1016&label=Perfil%20visto&color=blue&style=flat" alt="contador de visitas" />
   <br/>
   <i>“Construyo soluciones tecnológicas completas, desde la idea hasta la ejecución.”</i>
 </div>
