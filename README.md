@@ -48,14 +48,6 @@
 - 🔧 Tecnologías: Python, Selenium, PostgreSQL, React
 - 🌐 [Ver proyecto]([https://github/web-scraping-celulares](https://github.com/june1016/scrapingCelulares)) <!-- Cambia por tu enlace real -->
 
----
-
-### 📊 Estadísticas de Código
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=june1016&show_icons=true&theme=radical" alt="Estadísticas de GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=june1016&layout=compact&theme=radical" alt="Lenguajes más usados" />
-</div>
 
 ---
 
