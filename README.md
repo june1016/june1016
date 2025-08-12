@@ -39,20 +39,6 @@
 
 ---
 
-### 🚀 Proyectos Destacados
-
-#### 💬 Chatbot Inteligente con RAG
-> Sistema basado en **Retrieval-Augmented Generation** con Pinecone, LangChain y Hugging Face para recuperación contextual de metodologías ágiles.
-- 🔧 Tecnologías: Python, Flask, Next.js, Pinecone, LangChain, Hugging Face
-- 🌐 [Ver proyecto](https://github.com/tu-usuario/chatbot-rag)
-
-#### 📊 Sistema de Web Scraping para Comparación de Celulares
-> Herramienta automatizada con Selenium y Python para extracción, análisis y visualización de datos técnicos de dispositivos móviles.
-- 🔧 Tecnologías: Python, Selenium, PostgreSQL, React
-- 🌐 [Ver proyecto](https://github.com/tu-usuario/web-scraping-celulares)
-
----
-
 ### 📊 Mapa de Contribuciones
 
 <div align="center" style="margin: 30px 0;">
