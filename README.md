@@ -1,8 +1,3 @@
-Aquí tienes la versión completa y renovada de tu README. Está diseñado estratégicamente para posicionarte como **Data Analyst & Engineer**, destacando tus logros cuantificables (reducción de tiempos, procesamiento de registros) y poniendo tu stack de Data e IA en primer plano, mientras delega el Fullstack a un rol complementario.
-
-Copia y pega este código en el archivo `README.md` de tu repositorio `june1016/june1016`.
-
-```markdown
 <!-- 
   GitHub Profile README
   Juan Esteban Paja Montoya
