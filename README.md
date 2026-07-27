@@ -1,81 +1,79 @@
 <!-- 
   GitHub Profile README
   Juan Esteban Paja Montoya
-  Data Analyst & Engineer | Python · SQL · ETL · IA
+  Data Engineer & Analyst | Python · SQL · ETL · IA
 -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2E8B57&center=true&vCenter=true&random=false&width=600&lines=Data+Analyst+%26+Engineer;Python+%C2%B7+SQL+%C2%B7+ETL+%C2%B7+IA;Ingeniero+de+Sistemas" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:2E8B57,100:003322&height=180&section=header&text=Juan%20Esteban%20Paja&fontSize=42&fontColor=ffffff&fontAlignY=45&desc=Data+Engineer+|+Python+|+SQL+|+ETL+|+IA&descAlignY=70&descSize=16&animation=fadeIn" alt="Header Banner" />
+</div>
+
+<br>
+
+<div align="center">
+  <p><strong>Ingeniero de Sistemas</strong> | Medellín, Colombia</p>
+  <p>"Transformando datos en soluciones de negocio a través de pipelines eficientes y modelos de IA."</p>
 </div>
 
 <div align="center">
-  <p><strong>Ingeniero de Sistemas</strong> 💻 | Medellín, Colombia 🇨🇴</p>
-  <p><i>"Transformando datos en soluciones de negocio a través de pipelines eficientes y modelos de IA."</i></p>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
----
+### Sobre Mí
 
-### 📌 Sobre Mí
+Ingeniero de Sistemas enfocado en Ingeniería de Datos y Análisis, con experiencia construyendo pipelines ETL en producción, automatizando procesos con Python y diseñando arquitecturas de datos escalables. 
 
-Ingeniero de Sistemas enfocado en **Ingeniería de Datos y Análisis** con experiencia construyendo pipelines ETL en producción, automatizando procesos con Python y diseñando arquitecturas de datos escalables. 
+- **Impacto reciente:** Diseñé un sistema de procesamiento clínico (RIPS) que redujo los tiempos de reporte de 3-5 días a menos de 15 minutos, procesando hasta 1,000,000 de registros por consulta.
+- **IA & NLP:** Experiencia construyendo sistemas RAG con LangChain, Pinecone y Hugging Face.
+- **Actualmente:** Profundizando en arquitecturas MLOps y visualización interactiva con Dash/Streamlit.
+- **Buscando:** Oportunidades como Data Analyst, Data Engineer o ML Engineer Jr.
 
-- 🚀 **Impacto reciente:** Diseñé un sistema de procesamiento clínico (RIPS) que redujo los tiempos de reporte de 3-5 días a **menos de 15 minutos**, procesando hasta **1,000,000 de registros** por consulta.
-- 🤖 **IA & NLP:** Experiencia construyendo sistemas RAG con LangChain, Pinecone y Hugging Face.
-- 🌱 **Actualmente:** Profundizando en arquitecturas MLOps y visualización interactiva con Dash/Streamlit.
-- 💼 **Buscando:** Oportunidades como Data Analyst, Data Engineer o ML Engineer Jr.
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
 
----
+### Stack Tecnológico
 
-### 🛠️ Stack Tecnológico
-
-#### 💾 Data & Backend
 <div align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/SQLAlchemy-0C2D6B?style=flat-square&logo=sqlalchemy&logoColor=white" alt="SQLAlchemy" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face" />
+  <img src="https://img.shields.io/badge/Pinecone-000000?style=flat-square&logo=pinecone&logoColor=white" alt="Pinecone" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit" />
+  <img src="https://img.shields.io/badge/Dash-1779BA?style=flat-square&logo=dash&logoColor=white" alt="Dash" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
 </div>
 
-#### 🧠 IA & Machine Learning
-<div align="left">
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
-  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
-  <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white" alt="Pinecone" />
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
-#### 📊 Visualización & Fullstack (Complementario)
-<div align="left">
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
-  <img src="https://img.shields.io/badge/Dash-1779BA?style=for-the-badge&logo=dash&logoColor=white" alt="Dash" />
-  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-</div>
-
----
-
-### 🚀 Proyectos Destacados
+### Proyectos Destacados
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">⚙️ Pipeline ETL Clínico (RIPS)</h3>
-      <p align="center"><em>Python · SQLAlchemy · MySQL · PostgreSQL</em></p>
+      <h3 align="left">Pipeline ETL Clínico (RIPS)</h3>
+      <p align="left"><em>Python · SQLAlchemy · MySQL · PostgreSQL</em></p>
       <p align="left">
-        Sistema ETL end-to-end que consolide 4 bases de datos heterogéneas. Implementa arquitectura MVC estricta de 7 capas y procesamiento por lotes.
+        Sistema ETL end-to-end que consolida 4 bases de datos heterogéneas. Implementa arquitectura MVC estricta de 7 capas y procesamiento por lotes.
         <br><br>
         <strong>Impacto:</strong> Redujo el ciclo de reportes de 3-5 días a < 15 min. Procesa +1M de registros sin tope de memoria.
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🤖 Chatbot RAG con LangChain</h3>
-      <p align="center"><em>LangChain · Pinecone · Hugging Face · FastAPI</em></p>
+      <h3 align="left">Chatbot RAG con LangChain</h3>
+      <p align="left"><em>LangChain · Pinecone · Hugging Face · FastAPI</em></p>
       <p align="left">
         Sistema de recuperación aumentada (RAG) sobre documentación de metodologías ágiles. Implementa índices vectoriales y embeddings semánticos para respuestas contextuales.
         <br><br>
@@ -85,18 +83,26 @@ Ingeniero de Sistemas enfocado en **Ingeniería de Datos y Análisis** con exper
   </tr>
 </table>
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
 
-### 📫 Contacto y CV
+### Contacto
 
 <div align="center">
   <a href="mailto:june16.dev@outlook.com">
-    <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white" alt="Email" />
   </a>
   <a href="https://linkedin.com/in/juan-esteban-paja-montoya-596373232" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://raw.githubusercontent.com/june1016/june1016/main/Juan_Paja_CV_DataAnalyst_Engineer.pdf" download>
-    <img src="https://img.shields.io/badge/CV_Data_Engineer-000000?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Descargar CV" />
+    <img src="https://img.shields.io/badge/CV_Data_Engineer-000000?style=flat-square&logo=adobeacrobatreader&logoColor=white" alt="Descargar CV" />
   </a>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:2E8B57,100:003322&height=100&section=footer" alt="Footer Banner" />
 </div>
