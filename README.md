@@ -90,14 +90,14 @@ Ingeniero de Sistemas enfocado en Ingeniería de Datos y Análisis, con experien
 ### Contacto
 
 <div align="center">
-  <a href="mailto:june16.dev@outlook.com">
-    <img src="https://img.shields.io/badge/Email-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white" alt="Email" />
+  <a href="mailto:june16.dev@outlook.com" style="text-decoration: none; margin: 10px;">
+    <img src="https://api.iconify.design/mdi/gmail.svg?color=%23EA4335&width=45&height=45" alt="Email"/>
   </a>
-  <a href="https://linkedin.com/in/juan-esteban-paja-montoya-596373232" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://linkedin.com/in/juan-esteban-paja-montoya-596373232" target="_blank" style="text-decoration: none; margin: 10px;">
+    <img src="https://api.iconify.design/mdi/linkedin.svg?color=%230A66C2&width=45&height=45" alt="LinkedIn"/>
   </a>
-  <a href="https://raw.githubusercontent.com/june1016/june1016/main/Juan_Paja_CV_DataAnalyst_Engineer.pdf" download>
-    <img src="https://img.shields.io/badge/CV_Data_Engineer-000000?style=flat-square&logo=adobeacrobatreader&logoColor=white" alt="Descargar CV" />
+  <a href="https://raw.githubusercontent.com/june1016/june1016/main/Juan_Paja_CV_DataAnalyst_Engineer.pdf" download style="text-decoration: none; margin: 10px;">
+    <img src="https://api.iconify.design/mdi/file-pdf-box.svg?color=%23D32F2F&width=45&height=45" alt="CV"/>
   </a>
 </div>
 
