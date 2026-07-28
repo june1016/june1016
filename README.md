@@ -90,7 +90,7 @@ Ingeniero de Sistemas enfocado en Ingeniería de Datos y Análisis, con experien
 ### Contacto
 
 <div align="center">
-<a href="mailto:june16.dev@outlook.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a><a href="https://linkedin.com/in/juan-esteban-paja-montoya-596373232" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a><a href="https://raw.githubusercontent.com/june1016/june1016/main/Juan_Paja_CV_DataAnalyst_Engineer.pdf" download><img src="https://img.shields.io/badge/Descargar_CV-000000?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Descargar CV" /></a>
+<a href="mailto:june16.dev@outlook.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a><a href="https://linkedin.com/in/juan-esteban-paja-montoya-596373232" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=white" alt="LinkedIn" /></a><a href="https://raw.githubusercontent.com/june1016/june1016/main/Juan_Paja_CV_DataAnalyst_Engineer.pdf" download><img src="https://img.shields.io/badge/Descargar_CV-000000?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Descargar CV" /></a>
 </div>
 
 <br>
