@@ -5,7 +5,7 @@
 -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:2E8B57,100:003322&height=180&section=header&text=Juan%20Esteban%20Paja&fontSize=42&fontColor=ffffff&fontAlign=50&fontAlignY=45&desc=Data+Engineer+%7C+Python+%7C+SQL+%7C+ETL+%7C+IA&descColor=ffffff&descAlign=50&descAlignY=65&descSize=16&animation=fadeIn" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:2E8B57,100:003322&height=180&section=header&text=Juan%20Esteban%20Paja&fontSize=42&fontColor=ffffff&fontAlign=50&fontAlignY=40&desc=Data+Engineer+%7C+Python+%7C+SQL+%7C+ETL+%7C+IA&descColor=ffffff&descAlign=50&descAlignY=65&descSize=16&animation=fadeIn" alt="Header Banner" />
 </div>
 
 <br>
@@ -16,7 +16,7 @@
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2E8B57,100:003322&height=4&text=%20&fontSize=0" width="100%" alt="Divider" />
 </div>
 
 ### Sobre Mí
@@ -29,12 +29,12 @@ Ingeniero de Sistemas enfocado en Ingeniería de Datos y Análisis, con experien
 - **Buscando:** Oportunidades como Data Analyst, Data Engineer o ML Engineer Jr.
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2E8B57,100:003322&height=4&text=%20&fontSize=0" width="100%" alt="Divider" />
 </div>
 
 ### Stack Tecnológico
 
-<div align="left">
+<div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
@@ -55,7 +55,7 @@ Ingeniero de Sistemas enfocado en Ingeniería de Datos y Análisis, con experien
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2E8B57,100:003322&height=4&text=%20&fontSize=0" width="100%" alt="Divider" />
 </div>
 
 ### Proyectos Destacados
@@ -84,21 +84,13 @@ Ingeniero de Sistemas enfocado en Ingeniería de Datos y Análisis, con experien
 </table>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2E8B57,100:003322&height=4&text=%20&fontSize=0" width="100%" alt="Divider" />
 </div>
 
 ### Contacto
 
 <div align="center">
-  <a href="mailto:june16.dev@outlook.com" style="text-decoration: none; margin: 10px;">
-    <img src="https://api.iconify.design/mdi/gmail.svg?color=%23EA4335&width=45&height=45" alt="Email"/>
-  </a>
-  <a href="https://linkedin.com/in/juan-esteban-paja-montoya-596373232" target="_blank" style="text-decoration: none; margin: 10px;">
-    <img src="https://api.iconify.design/mdi/linkedin.svg?color=%230A66C2&width=45&height=45" alt="LinkedIn"/>
-  </a>
-  <a href="https://raw.githubusercontent.com/june1016/june1016/main/Juan_Paja_CV_DataAnalyst_Engineer.pdf" download style="text-decoration: none; margin: 10px;">
-    <img src="https://api.iconify.design/mdi/file-pdf-box.svg?color=%23D32F2F&width=45&height=45" alt="CV"/>
-  </a>
+<a href="mailto:june16.dev@outlook.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a><a href="https://linkedin.com/in/juan-esteban-paja-montoya-596373232" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a><a href="https://raw.githubusercontent.com/june1016/june1016/main/Juan_Paja_CV_DataAnalyst_Engineer.pdf" download><img src="https://img.shields.io/badge/Descargar_CV-000000?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Descargar CV" /></a>
 </div>
 
 <br>
