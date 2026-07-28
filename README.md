@@ -5,7 +5,7 @@
 -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:2E8B57,100:003322&height=180&section=header&text=Juan%20Esteban%20Paja&fontSize=42&fontColor=ffffff&fontAlignY=45&desc=Data+Engineer+|+Python+|+SQL+|+ETL+|+IA&descAlignY=70&descSize=16&animation=fadeIn" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:2E8B57,100:003322&height=180&section=header&text=Juan%20Esteban%20Paja&fontSize=42&fontColor=ffffff&fontAlign=50&fontAlignY=45&desc=Data+Engineer+%7C+Python+%7C+SQL+%7C+ETL+%7C+IA&descColor=ffffff&descAlign=50&descAlignY=65&descSize=16&animation=fadeIn" alt="Header Banner" />
 </div>
 
 <br>
@@ -104,13 +104,5 @@ Ingeniero de Sistemas enfocado en Ingeniería de Datos y Análisis, con experien
 <br>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:2E8B57,100:003322&height=100&section=footer" alt="Footer Banner" />
-</div>
-
-
-
-
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E8B57,100:003322&height=180&section=header&text=Juan%20Esteban%20Paja&fontSize=42&fontColor=ffffff&fontAlignY=40&desc=Data+Engineer+%7C+Python+%7C+SQL+%7C+ETL+%7C+IA&descColor=ffffff&descAlignY=60&descSize=16&animation=fadeIn" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:2E8B57,100:003322&height=100&section=footer" alt="Footer Banner" />
 </div>
