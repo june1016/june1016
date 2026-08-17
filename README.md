@@ -1,7 +1,7 @@
 <!-- 
   GitHub Profile README
   Juan Esteban Paja Montoya
-  Data Engineer & Analyst | Python · SQL · ETL · IA
+  Data Analyst & Data Engineer | Python · SQL · ETL · PostgreSQL · IA
 -->
 
 <div align="center">
