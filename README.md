@@ -5,7 +5,7 @@
 -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:2E8B57,100:003322&height=180&section=header&text=Juan%20Esteban%20Paja&fontSize=42&fontColor=ffffff&fontAlign=50&fontAlignY=40&desc=Data+Engineer+%7C+Python+%7C+SQL+%7C+ETL+%7C+IA&descColor=ffffff&descAlign=50&descAlignY=65&descSize=16&animation=fadeIn" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:2E8B57,100:003322&height=180&section=header&text=Juan%20Esteban%20Paja&fontSize=42&fontColor=ffffff&fontAlign=50&fontAlignY=35&desc=Data+Analyst+-+Data+Engineer+%7C+Python+%7C+SQL+%7C+ETL+%7C+PostgreSQL+%7C+IA&descColor=ffffff&descAlign=50&descAlignY=70&descSize=14&animation=fadeIn" alt="Header Banner" />
 </div>
 
 <br>
